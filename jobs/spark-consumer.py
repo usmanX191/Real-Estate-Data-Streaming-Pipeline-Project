@@ -105,7 +105,7 @@ def insert_data(session, **kwargs):
 def create_cassandra_session():
     # Specify contact points and load balancing policy 
     # For Spark Job
-    cluster = Cluster(contact_points=["172.18.0.3"], port=9042,
+    cluster = Cluster(contact_points=["172.20.0.4"], port=9042,
                       load_balancing_policy=DCAwareRoundRobinPolicy(local_dc='datacenter1'),
                       protocol_version=4)
     session = cluster.connect()
@@ -134,7 +134,7 @@ def process_row(row):
     logging.info("------------------------Processing Row for Cassandra-----------------------")
     # Specify contact points and load balancing policy 
     # For Spark Job
-    cluster = Cluster(contact_points=["172.18.0.3"], port=9042,
+    cluster = Cluster(contact_points=["172.20.0.4"], port=9042,
                       load_balancing_policy=DCAwareRoundRobinPolicy(local_dc='datacenter1'),
                       protocol_version=4,
                       connect_timeout=20)

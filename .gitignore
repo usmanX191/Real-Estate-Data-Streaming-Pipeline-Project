@@ -9,3 +9,7 @@ kafka-consumer.py
 output.json
 
 test_spark.py
+
+scraped-data
+
+Presentation.pptx

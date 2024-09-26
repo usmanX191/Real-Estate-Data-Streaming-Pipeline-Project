@@ -2,6 +2,8 @@
 
 py-env
 
+MIT.LICENSE.txt
+
 kafka-consumer.py
 
 output.json

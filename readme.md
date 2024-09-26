@@ -63,6 +63,7 @@ Here’s an example of the **Power BI** dashboard visualizing key metrics from t
 
 ![Screenshot 2024-09-26 201745](https://github.com/user-attachments/assets/7d5c8444-896a-43d2-9fd4-b6c88ab2a085)
 
+![Screenshot 2024-09-26 201934](https://github.com/user-attachments/assets/646d01ff-4a96-417e-b64a-28944b602055)
 
 
 ## Future Enhancements

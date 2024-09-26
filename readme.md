@@ -77,12 +77,9 @@ Here’s an example of the **Power BI** dashboard visualizing key metrics from t
 ## License
 
 This project is licensed under the MIT License.
+[MIT.LICENSE.txt](https://github.com/user-attachments/files/17151480/MIT.LICENSE.txt)MIT License
 
-[MIT LICENSE.txt](https://github.com/user-attachments/files/17151130/MIT.LICENSE.txt)
-
-MIT License
-
-Copyright (c) Usman Mahmood <usmanmehmood770@gmail.com>
+Copyright (c) Usman Mahmood & Syed Asjad Sohail <usmanmehmood770@gmail.com> & <asjadshah60@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -101,4 +98,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-

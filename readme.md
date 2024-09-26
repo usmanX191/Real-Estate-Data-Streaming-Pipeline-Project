@@ -61,7 +61,7 @@ This project demonstrates an end-to-end **Real Estate Data Streaming & Analytics
 
 Here’s an example of the **Power BI** dashboard visualizing key metrics from the real estate data:
 
-![Power BI Dashboard](path_to_your_image)
+![Screenshot 2024-09-26 201745](https://github.com/user-attachments/assets/7d5c8444-896a-43d2-9fd4-b6c88ab2a085)
 
 
 
